@@ -17,7 +17,7 @@ Pequeno sistema de gerenciamento de estoque de uma cervejaria com API REST
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```java
-mvn spring-boot:run
+
 ```
 Após executar o camando acima, basta abrir no navegador o endereço abaixo:
 
