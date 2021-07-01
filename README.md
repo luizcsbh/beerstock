@@ -25,7 +25,7 @@ Após executar o camando acima, basta abrir no navegador o endereço abaixo:
    
 ```
 
-## Pre requesitos
+## Pré requisitos
 - Java 14,
 
 - Maven 3.6.3 ou versões superiores
