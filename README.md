@@ -3,7 +3,7 @@
 ![stars](https://img.shields.io/github/stars/luizcsbh/beerstock)
 [![lincença](https://img.shields.io/github/license/luizcsbh/beerstock)](https://github.com/luizcsbh/beerstock/blob/main/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/beerstock)
-[![personapi](https://img.shields.io/github/deployments/luizcsbh/beerstock/beerstock-java)](https://github.com/luizcsbh/beerstock/deployments/activity_log?environment=personapi)
+[![beerstock](https://img.shields.io/github/deployments/luizcsbh/beerstock/beerstock-java)](https://github.com/luizcsbh/beerstock/deployments/activity_log?environment=beerstock-api)
 [![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/beerstock)](https://github.com/luizcsbh/beerstock/commits)
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/beerstock)](https://github.com/luizcsbh/beerstock/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/beerstock/badge)](https://www.codefactor.io/repository/github/luizcsbh/beerstock)
@@ -22,7 +22,7 @@ mvn spring-boot:run
 Após executar o camando acima, basta abrir no navegador o endereço abaixo:
 
 ```http
-
+   
 ```
 
 ## Pre requesitos
