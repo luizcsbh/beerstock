@@ -14,7 +14,7 @@
 	<name>beerstock</name>
 	<description>API developed with spring boot to control a brewery&apos;s inventory</description>
 	<properties>
-		<java.version>14</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
