@@ -12,6 +12,7 @@ public enum BeerType {
     WITBIER("Witbier"),
     WEISS("Weiss"),
     ALE("Ale"),
+    TRIGO("Trigo"),
     IPA("Ipa"),
     STOUT("Stout");
 
